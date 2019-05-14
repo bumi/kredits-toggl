@@ -1,0 +1,17 @@
+{
+  "name": "kredits-toggl",
+  "version": "1.0.0",
+  "description": "A kredits oracle to create contributons from toggl time entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Bumann",
+  "license": "MIT",
+  "dependencies": {
+    "kredits-contracts": "^5.3.0",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
